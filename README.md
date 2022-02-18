@@ -42,3 +42,6 @@ Launch with:
 - [Documentation for Project Jupyter](https://jupyter.readthedocs.io/en/latest/index.html) [[PDF](https://media.readthedocs.org/pdf/jupyter/latest/jupyter.pdf)]
 - [Issues](https://github.com/jupyter/notebook/issues)
 - [Technical support - Jupyter Google Group](https://groups.google.com/forum/#!forum/jupyter)
+***
+
+![](https://media.giphy.com/media/NTMxntb8rMzmbd1x97/giphy.gif)
